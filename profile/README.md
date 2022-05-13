@@ -1,4 +1,4 @@
-![Thirdweb Examples Header](./header-image.png)
+![Thirdweb Examples Header](header-image.png)
 
 <!-- LOGO -->
 <br />
