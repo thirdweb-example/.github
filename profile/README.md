@@ -1,13 +1,12 @@
+<!-- Banner Image -->
+
 ![Thirdweb Examples Header](header-image.png)
 
-<!-- LOGO -->
 <br />
-<h1>
-<p align="center">
-  <img src='./Thirdweb-Icon-Transparent 3.png' alt="Logo" width="123" height="74">
-</h1>
+
   <p align="center">
     thirdweb examples to kickstart your next project, or to learn more about using thirdweb's features!
+  </p>
 
 <br />
 
@@ -17,7 +16,7 @@
   <a href="https://discord.com/invite/thirdweb">Join our Discord</a>
 </p>
 
-<hr/>
+<br />
 
 <div align='center' >
 
@@ -33,5 +32,3 @@
 | Vite             | TypeScript | [Starter-kit project](https://github.com/thirdweb-example/vite-typescript-starter) |
 
 </div>
-
-<hr/>
