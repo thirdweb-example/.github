@@ -22,13 +22,37 @@
 
 ## Starter Kits
 
-| Framework        | Language   | Example Project                                                                    |
-| ---------------- | ---------- | ---------------------------------------------------------------------------------- |
-| Create React App | JavaScript | [Link](https://github.com/thirdweb-example/cra-javascript-starter)  |
-| Create React App | TypeScript | [Link](https://github.com/thirdweb-example/cra-typescript-starter)  |
-| Next.js          | JavaScript | [Link](https://github.com/thirdweb-example/next-javascript-starter) |
-| Next.js          | TypeScript | [Link](https://github.com/thirdweb-example/next-typescript-starter) |
-| Vite             | JavaScript | [Link](https://github.com/thirdweb-example/vite-javascript-starter) |
-| Vite             | TypeScript | [Link](https://github.com/thirdweb-example/vite-typescript-starter) |
+### EVM
+
+| Type           | Framework        | Language   | Example Project                                                             |
+| :------------- | :--------------- | :--------- | :-------------------------------------------------------------------------- |
+| Smart Contract | Hardhat          | Javascript | [Link](https://github.com/thirdweb-example/hardhat-javascript-starter)      |
+| Smart Contract | Hardhat          | Typescript | [Link](https://github.com/thirdweb-example/hardhat-typescript-starter)      |
+| Smart Contract | Forge            | Solidity   | [Link](https://github.com/thirdweb-example/forge-starter)                   |
+| Web App        | Create React App | JavaScript | [Link](https://github.com/thirdweb-example/cra-javascript-starter)          |
+| Web App        | Create React App | TypeScript | [Link](https://github.com/thirdweb-example/cra-typescript-starter)          |
+| Web App        | Next.js          | JavaScript | [Link](https://github.com/thirdweb-example/next-javascript-starter)         |
+| Web App        | Next.js          | TypeScript | [Link](https://github.com/thirdweb-example/next-typescript-starter)         |
+| Web App        | Vite             | JavaScript | [Link](https://github.com/thirdweb-example/vite-javascript-starter)         |
+| Web App        | Vite             | TypeScript | [Link](https://github.com/thirdweb-example/vite-typescript-starter)         |
+| Mobile App     | React Native     | JavaScript | [Link](https://github.com/thirdweb-example/react-native-javascript-starter) |
+| Mobile App     | React Native     | TypeScript | [Link](https://github.com/thirdweb-example/react-native-typescript-starter) |
+| API            | Express          | JavaScript | [Link](https://github.com/thirdweb-example/express-javascript-starter)      |
+| API            | Express          | TypeScript | [Link](https://github.com/thirdweb-example/express-typescript-starter)      |
+| Scripting      | Node.js          | JavaScript | [Link](https://github.com/thirdweb-example/node-javascript-starter)         |
+| Scripting      | Node.js          | TypeScript | [Link](https://github.com/thirdweb-example/node-javascript-starter)         |
+
+### Solana
+
+| Type    | Framework        | Language   | Example Project                                                               |
+| :------ | :--------------- | :--------- | :---------------------------------------------------------------------------- |
+| Web App | Create React App | JavaScript | [Link](https://github.com/thirdweb-example/cra-javascript-solana-starter)     |
+| Web App | Create React App | TypeScript | [Link](https://github.com/thirdweb-example/cra-typescript-solana-starter)     |
+| Web App | Next.js          | JavaScript | [Link](https://github.com/thirdweb-example/next-javascript-solana-starter)    |
+| Web App | Next.js          | TypeScript | [Link](https://github.com/thirdweb-example/next-typescript-solana-starter)    |
+| API     | Express          | JavaScript | [Link](https://github.com/thirdweb-example/express-javascript-solana-starter) |
+| API     | Express          | TypeScript | [Link](https://github.com/thirdweb-example/express-typescript-solana-starter) |
+| Script  | Node.js          | JavaScript | [Link](https://github.com/thirdweb-example/node-javascript-solana-starter)    |
+| Script  | Node.js          | TypeScript | [Link](https://github.com/thirdweb-example/node-typescript-solana-starter)    |
 
 </div>
