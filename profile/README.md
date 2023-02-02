@@ -44,15 +44,15 @@
 
 ### Solana
 
-| Type    | Framework | Language   | Example Project                                                               |
-| :------ | :-------- | :--------- | :---------------------------------------------------------------------------- |
-| Web App | React     | JavaScript | [Link](https://github.com/thirdweb-example/cra-javascript-solana-starter)     |
-| Web App | React     | TypeScript | [Link](https://github.com/thirdweb-example/cra-typescript-solana-starter)     |
-| Web App | Next.js   | JavaScript | [Link](https://github.com/thirdweb-example/next-javascript-solana-starter)    |
-| Web App | Next.js   | TypeScript | [Link](https://github.com/thirdweb-example/next-typescript-solana-starter)    |
-| API     | Express   | JavaScript | [Link](https://github.com/thirdweb-example/express-javascript-solana-starter) |
-| API     | Express   | TypeScript | [Link](https://github.com/thirdweb-example/express-typescript-solana-starter) |
-| Script  | Node.js   | JavaScript | [Link](https://github.com/thirdweb-example/node-javascript-solana-starter)    |
-| Script  | Node.js   | TypeScript | [Link](https://github.com/thirdweb-example/node-typescript-solana-starter)    |
+| Type    | Framework        | Language   | Example Project                                                               |
+| :------ | :--------------- | :--------- | :---------------------------------------------------------------------------- |
+| Web App | Create React App | JavaScript | [Link](https://github.com/thirdweb-example/cra-javascript-solana-starter)     |
+| Web App | Create React App | TypeScript | [Link](https://github.com/thirdweb-example/cra-typescript-solana-starter)     |
+| Web App | Next.js          | JavaScript | [Link](https://github.com/thirdweb-example/next-javascript-solana-starter)    |
+| Web App | Next.js          | TypeScript | [Link](https://github.com/thirdweb-example/next-typescript-solana-starter)    |
+| API     | Express          | JavaScript | [Link](https://github.com/thirdweb-example/express-javascript-solana-starter) |
+| API     | Express          | TypeScript | [Link](https://github.com/thirdweb-example/express-typescript-solana-starter) |
+| Script  | Node.js          | JavaScript | [Link](https://github.com/thirdweb-example/node-javascript-solana-starter)    |
+| Script  | Node.js          | TypeScript | [Link](https://github.com/thirdweb-example/node-typescript-solana-starter)    |
 
 </div>
