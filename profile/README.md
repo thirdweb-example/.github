@@ -40,7 +40,7 @@
 | API            | Express          | JavaScript | [Link](https://github.com/thirdweb-example/express-javascript-starter)      |
 | API            | Express          | TypeScript | [Link](https://github.com/thirdweb-example/express-typescript-starter)      |
 | Scripting      | Node.js          | JavaScript | [Link](https://github.com/thirdweb-example/node-javascript-starter)         |
-| Scripting      | Node.js          | TypeScript | [Link](https://github.com/thirdweb-example/node-javascript-starter)         |
+| Scripting      | Node.js          | TypeScript | [Link](https://github.com/thirdweb-example/node-typescript-starter)         |
 
 ### Solana
 
