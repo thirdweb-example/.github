@@ -24,7 +24,7 @@
 
 ### EVM
 
-| Type           | Framework        | Language   | Example Project                                                             |
+| Type           | Framework        | Language   | Repository                                                             |
 | :------------- | :--------------- | :--------- | :-------------------------------------------------------------------------- |
 | Smart Contract | Hardhat          | Javascript | [Link](https://github.com/thirdweb-example/hardhat-javascript-starter)      |
 | Smart Contract | Hardhat          | Typescript | [Link](https://github.com/thirdweb-example/hardhat-typescript-starter)      |
@@ -44,7 +44,7 @@
 
 ### Solana
 
-| Type    | Framework        | Language   | Example Project                                                               |
+| Type    | Framework        | Language   | Repository                                                               |
 | :------ | :--------------- | :--------- | :---------------------------------------------------------------------------- |
 | Web App | Create React App | JavaScript | [Link](https://github.com/thirdweb-example/cra-javascript-solana-starter)     |
 | Web App | Create React App | TypeScript | [Link](https://github.com/thirdweb-example/cra-typescript-solana-starter)     |
