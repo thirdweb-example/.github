@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong style="font-size: 1.2em; font-family: Arial, sans-serif;">
-     Get started with Thirdweb examples and supercharge your next project! <br /> Explore and learn from our exciting features and join the world of thirdweb! 🎉
+     Get started with thirdweb examples and supercharge your next project! <br /> Explore and learn from our exciting features and join the world of thirdweb! 🎉
   </strong>
 </p>
 
