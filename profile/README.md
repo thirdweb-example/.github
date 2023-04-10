@@ -4,16 +4,25 @@
 
 <br />
 
-  <p align="center">
-    thirdweb examples to kickstart your next project, or to learn more about using thirdweb's features!
-  </p>
+<p align="center">
+  <strong style="font-size: 1.2em; font-family: Arial, sans-serif;">
+     Get started with Thirdweb examples and supercharge your next project! <br /> Explore and learn from our exciting features and join the world of thirdweb! 🎉
+  </strong>
+</p>
+
 
 <br />
 
 <p align="center">
-  <a href="https://portal.thirdweb.com/">thirdweb Portal</a> •
-  <a href="https://github.com/orgs/thirdweb-dev/repositories">thirdweb-dev</a> •
-  <a href="https://discord.com/invite/thirdweb">Join our Discord</a>
+  <a href="https://portal.thirdweb.com/">
+    <img src="https://img.shields.io/badge/thirdweb%20Portal-8A2BE2?style=for-the-badge&logoColor=white" alt="thirdweb Portal">
+  </a>
+  <a href="https://github.com/orgs/thirdweb-dev/repositories">
+    <img src="https://img.shields.io/badge/thirdweb%20dev-8A2BE2?style=for-the-badge&logo=GitHub&logoColor=white" alt="thirdweb-dev">
+  </a>
+  <a href="https://discord.com/invite/thirdweb">
+    <img src="https://img.shields.io/badge/Join%20our%20Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord">
+  </a>
 </p>
 
 <br />
