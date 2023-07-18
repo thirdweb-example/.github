@@ -11,14 +11,15 @@
 <br />
 
 <p align="center">
-  <a href="https://portal.thirdweb.com/">thirdweb Portal</a> •
-  <a href="https://github.com/orgs/thirdweb-dev/repositories">thirdweb-dev</a> •
-  <a href="https://discord.com/invite/thirdweb">Join our Discord</a>
+  <a href="https://portal.thirdweb.com/">Documentation</a> •
+  <a href="https://thirdweb.com/templates">Templates</a> •
+  <a href="https://youtube.com/thirdweb_">YouTube</a> •
+  <a href="https://discord.com/invite/thirdweb">Discord</a>
 </p>
 
 <br />
 
-<div align='center' >
+<div align='left' >
 
 ## Starter Kits
 
