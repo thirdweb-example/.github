@@ -37,7 +37,6 @@
 | Web App        | Vite             | JavaScript | [Link](https://github.com/thirdweb-example/vite-javascript-starter)         |
 | Web App        | Vite             | TypeScript | [Link](https://github.com/thirdweb-example/vite-typescript-starter)         |
 | PWA            | Vite             | TypeScript | [Link](https://github.com/thirdweb-example/pwa-vite-typescript-starter)         |
-| PWA            | Next.js          | TypeScript | [Link](https://github.com/thirdweb-example/pwa-next-typescript-starter)         |
 | Mobile App     | React Native     | TypeScript | [Link](https://github.com/thirdweb-example/react-native-typescript-starter) |
 | Mobile App     | React Native Expo| TypeScript | [Link](https://github.com/thirdweb-example/react-native-expo-starter) |
 | API            | Express          | JavaScript | [Link](https://github.com/thirdweb-example/express-javascript-starter)      |
