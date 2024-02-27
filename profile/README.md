@@ -15,6 +15,7 @@
   <a href="https://thirdweb.com/templates">Templates</a> •
   <a href="https://youtube.com/thirdweb_">YouTube</a> •
   <a href="https://discord.com/invite/thirdweb">Discord</a>
+   <a href="https://thirdweb.com/support">Support</a>
 </p>
 
 <br />
