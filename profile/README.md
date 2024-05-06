@@ -21,3 +21,8 @@
 <br />
 
 <div align='left' >
+
+### Starter Templates
+
+- [Next Starter](https://github.com/thirdweb-example/next-starter)
+- [Vite Starter](https://github.com/thirdweb-example/vite-starter)
