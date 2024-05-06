@@ -22,12 +22,20 @@
 
 <div align='left' >
 
-### Starter Templates
+## Starter Templates
+
+### Connect
 
 - [Next Starter](https://github.com/thirdweb-example/next-starter)
+- [CRA Starter](https://github.com/thirdweb-example/cra-starter)
 - [Vite Starter](https://github.com/thirdweb-example/vite-starter)
+- [Node Starter](https://github.com/thirdweb-example/node-starter)
+- [Express Starter](https://github.com/thirdweb-example/express-starter)
 
-### Connect Examples
+### Contracts
+
+
+## Connect Examples
 
 - [Auth With Next.JS](https://github.com/thirdweb-example/thirdweb-auth-next)
 - [Auth With Express](https://github.com/thirdweb-example/thirdweb-auth-express)
