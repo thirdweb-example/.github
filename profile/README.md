@@ -26,3 +26,9 @@
 
 - [Next Starter](https://github.com/thirdweb-example/next-starter)
 - [Vite Starter](https://github.com/thirdweb-example/vite-starter)
+
+### Connect Examples
+
+- [Auth With Next.JS](https://github.com/thirdweb-example/thirdweb-auth-next)
+- [Auth With Express](https://github.com/thirdweb-example/thirdweb-auth-express)
+- [Account Abstraction Example](https://github.com/thirdweb-example/account-abstraction)
