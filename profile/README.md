@@ -24,9 +24,13 @@
 
 ## Starter Templates
 
+#### Connect
+
 - [Next Starter](https://github.com/thirdweb-example/node-starter)
 - [Vite Starter](https://github.com/thirdweb-example/vite-starter)
 - [Node Starter](https://github.com/thirdweb-example/node-starter)
+
+#### Contracts
 
 ## Connect Examples
 
