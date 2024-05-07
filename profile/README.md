@@ -32,7 +32,9 @@
 
 #### Contracts
 
-## Connect Examples
+## Examples
+
+#### Connect
 
 - [Auth With Next.JS](https://github.com/thirdweb-example/thirdweb-auth-next)
 - [Auth With Express](https://github.com/thirdweb-example/thirdweb-auth-express)
