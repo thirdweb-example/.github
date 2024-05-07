@@ -24,16 +24,10 @@
 
 ## Starter Templates
 
-#### Connect
+| Connect | Contracts |
+|---------|-----------|
+| [Next Starter](https://github.com/thirdweb-example/next-starter)<br>[Vite Starter](https://github.com/thirdweb-example/vite-starter)<br>[Node Starter](https://github.com/thirdweb-example/node-starter) | [Hardhat Starter](https://github.com/thirdweb-example/hardhat-javascript-starter)<br>[Forge Starter](https://github.com/thirdweb-example/forge-starter) |
 
-- [Next Starter](https://github.com/thirdweb-example/next-starter)
-- [Vite Starter](https://github.com/thirdweb-example/vite-starter)
-- [Node Starter](https://github.com/thirdweb-example/node-starter)
-
-#### Contracts
-
-- [Hardhat Starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
-- [Forge Starter](https://github.com/thirdweb-example/forge-starter)
 
 ## Examples
 
