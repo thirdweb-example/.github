@@ -32,6 +32,9 @@
 
 #### Contracts
 
+- [Hardhat Starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
+- [Forge Starter](https://github.com/thirdweb-example/forge-starter)
+
 ## Examples
 
 #### Connect
