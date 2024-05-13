@@ -22,7 +22,7 @@
 
 <div align='left' >
 
-## Starter Templates
+## Starters
 
 | Connect | Contracts |
 |---------|-----------|
