@@ -24,15 +24,32 @@
 
 ## Starters
 
-| Connect | Contracts |
-|---------|-----------|
-| [Next Starter](https://github.com/thirdweb-example/next-starter)<br>[Vite Starter](https://github.com/thirdweb-example/vite-starter)<br>[Node Starter](https://github.com/thirdweb-example/node-starter) | [Hardhat Starter](https://github.com/thirdweb-example/hardhat-javascript-starter)<br>[Forge Starter](https://github.com/thirdweb-example/forge-starter) |
+#### Connect
 
+- [Next Starter](https://github.com/thirdweb-example/next-starter)
+- [Vite Starter](https://github.com/thirdweb-example/vite-starter)
+- [Node Starter](https://github.com/thirdweb-example/node-starter) 
+
+
+#### Contracts
+
+- [Hardhat Starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
+- [Forge Starter](https://github.com/thirdweb-example/forge-starter) 
 
 ## Examples
 
 #### Connect
 
+- [Connect Button Example](https://github.com/thirdweb-example/connect-button-example)
+- [Connect Embed Example](https://github.com/thirdweb-example/connect-embed-example)
+- [Custom Sign-In Example](https://github.com/thirdweb-example/custom-sign-in-example)
 - [Auth With Next.JS](https://github.com/thirdweb-example/thirdweb-auth-next)
 - [Auth With Express](https://github.com/thirdweb-example/thirdweb-auth-express)
 - [Account Abstraction Example](https://github.com/thirdweb-example/account-abstraction)
+- [Wagmi Adapter Example](https://github.com/thirdweb-example/wagmi-adapter-example)
+- [Viem Adapter Example](https://github.com/thirdweb-example/viem-adapter-example)
+- [Ethers Adapter Example](https://github.com/thirdweb-example/ethers-adapter-example)
+
+#### Contracts
+
+#### Engine
