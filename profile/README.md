@@ -50,7 +50,14 @@
 - [Wagmi Adapter Example](https://github.com/thirdweb-example/wagmi-adapter-example)
 - [Viem Adapter Example](https://github.com/thirdweb-example/viem-adapter-example)
 - [Ethers Adapter Example](https://github.com/thirdweb-example/ethers-adapter-example)
+- [Sign In With Farcaster](https://github.com/thirdweb-example/thirdweb-siwf)
 
 #### Contracts
 
 #### Engine
+
+## Full Builds
+
+- [Marketplace](https://github.com/thirdweb-example/marketplace-v3)
+- [Gated Content](https://github.com/thirdweb-example/gated-content-example)
+- [Uniswap](https://github.com/thirdweb-example/thirdweb-uniswap)
