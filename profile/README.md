@@ -28,7 +28,8 @@
 
 - [Next Starter](https://github.com/thirdweb-example/next-starter)
 - [Vite Starter](https://github.com/thirdweb-example/vite-starter)
-- [Node Starter](https://github.com/thirdweb-example/node-starter) 
+- [Node Starter](https://github.com/thirdweb-example/node-starter)
+- [Expo Starter](https://github.com/thirdweb-example/expo-starter)
 
 
 #### Contracts
