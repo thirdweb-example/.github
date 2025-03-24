@@ -30,7 +30,7 @@
 - [Vite Starter](https://github.com/thirdweb-example/vite-starter)
 - [Node Starter](https://github.com/thirdweb-example/node-starter)
 - [Expo Starter](https://github.com/thirdweb-example/expo-starter)
-- [Farcaster Frame v2](https://github.com/thirdweb-example/farcaster-starter)
+- [Farcaster Frame v2 Starter](https://github.com/thirdweb-example/farcaster-starter)
 
 
 #### Contracts
