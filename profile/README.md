@@ -30,6 +30,7 @@
 - [Vite Starter](https://github.com/thirdweb-example/vite-starter)
 - [Node Starter](https://github.com/thirdweb-example/node-starter)
 - [Expo Starter](https://github.com/thirdweb-example/expo-starter)
+- [Farcaster Frame v2](https://github.com/thirdweb-example/farcaster-starter)
 
 
 #### Contracts
@@ -50,7 +51,7 @@
 - [Wagmi Adapter Example](https://github.com/thirdweb-example/wagmi-adapter-example)
 - [Viem Adapter Example](https://github.com/thirdweb-example/viem-adapter-example)
 - [Ethers Adapter Example](https://github.com/thirdweb-example/ethers-adapter-example)
-- [Sign In With Farcaster](https://github.com/thirdweb-example/thirdweb-siwf)
+
 
 #### Contracts
 
