@@ -24,6 +24,13 @@
 
 ## Starters
 
+### API
+
+- [CYBER BIRD] Flappy Bird but for Web3 (https://github.com/thirdweb-example/cyber-bird)
+- [AI wallet manager] (https://github.com/thirdweb-example/wallet-manager) 
+- [Stable Pay] Stablecoin P2P payments app (https://github.com/thirdweb-example/stable-pay) 
+- [Pixel Place] Art canvas that pays you for every single pixel (https://github.com/thirdweb-example/pixel-place)
+
 #### Connect
 
 - [Next Starter](https://github.com/thirdweb-example/next-starter)
