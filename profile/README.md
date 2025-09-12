@@ -30,6 +30,7 @@
 - [AI wallet manager](https://github.com/thirdweb-example/wallet-manager)
 - [Stable Pay](https://github.com/thirdweb-example/wallet-manager)
 - [Pixel Place](https://github.com/thirdweb-example/pixel-place)
+- [Smart Wallet App](https://smart-wallet-app-pcsj.vercel.app/)
 
 
 #### Connect
