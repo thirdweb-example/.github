@@ -31,6 +31,7 @@
 - [Stable Pay](https://github.com/thirdweb-example/wallet-manager)
 - [Pixel Place](https://github.com/thirdweb-example/pixel-place)
 - [Smart Wallet App](https://smart-wallet-app-pcsj.vercel.app/)
+- [Vibe shooter](https://github.com/thirdweb-example/vibe-shooter)
 
 
 #### Connect
