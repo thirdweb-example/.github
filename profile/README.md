@@ -53,7 +53,7 @@
 - [Viem Adapter Example](https://github.com/thirdweb-example/viem-adapter-example)
 - [Ethers Adapter Example](https://github.com/thirdweb-example/ethers-adapter-example)
 
-### thirdweb API
+#### thirdweb API
 
 - [CYBER BIRD](https://github.com/thirdweb-example/cyber-bird)
 - [AI wallet manager](https://github.com/thirdweb-example/wallet-manager)
