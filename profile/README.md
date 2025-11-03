@@ -24,15 +24,6 @@
 
 ## Starters
 
-### API
-
-- [CYBER BIRD](https://github.com/thirdweb-example/cyber-bird)
-- [AI wallet manager](https://github.com/thirdweb-example/wallet-manager)
-- [Stable Pay](https://github.com/thirdweb-example/wallet-manager)
-- [Pixel Place](https://github.com/thirdweb-example/pixel-place)
-- [Smart Wallet App](https://github.com/thirdweb-example/smart-wallet-app)
-- [Vibe shooter](https://github.com/thirdweb-example/vibe-shooter)
-
 
 #### Connect
 
@@ -62,10 +53,15 @@
 - [Viem Adapter Example](https://github.com/thirdweb-example/viem-adapter-example)
 - [Ethers Adapter Example](https://github.com/thirdweb-example/ethers-adapter-example)
 
+### thirdweb API
 
-#### Contracts
+- [CYBER BIRD](https://github.com/thirdweb-example/cyber-bird)
+- [AI wallet manager](https://github.com/thirdweb-example/wallet-manager)
+- [Stable Pay](https://github.com/thirdweb-example/wallet-manager)
+- [Pixel Place](https://github.com/thirdweb-example/pixel-place)
+- [Smart Wallet App](https://github.com/thirdweb-example/smart-wallet-app)
+- [Vibe shooter](https://github.com/thirdweb-example/vibe-shooter)
 
-#### Engine
 
 ## Full Builds
 
